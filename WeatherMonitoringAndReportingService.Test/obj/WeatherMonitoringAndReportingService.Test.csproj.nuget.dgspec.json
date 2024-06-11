@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\loren\\source\\repos\\WeatherMonitoringAndReportingService.Test\\WeatherMonitoringAndReportingService.Test.csproj": {}
+    "C:\\Users\\loren\\source\\repos\\WeatherMonitoringAndReportingServiceWithTests\\WeatherMonitoringAndReportingService.Test\\WeatherMonitoringAndReportingService.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\loren\\source\\repos\\WeatherMonitoringAndReportingService.Test\\WeatherMonitoringAndReportingService.Test.csproj": {
+    "C:\\Users\\loren\\source\\repos\\WeatherMonitoringAndReportingServiceWithTests\\WeatherMonitoringAndReportingService.Test\\WeatherMonitoringAndReportingService.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\loren\\source\\repos\\WeatherMonitoringAndReportingService.Test\\WeatherMonitoringAndReportingService.Test.csproj",
+        "projectUniqueName": "C:\\Users\\loren\\source\\repos\\WeatherMonitoringAndReportingServiceWithTests\\WeatherMonitoringAndReportingService.Test\\WeatherMonitoringAndReportingService.Test.csproj",
         "projectName": "WeatherMonitoringAndReportingService.Test",
-        "projectPath": "C:\\Users\\loren\\source\\repos\\WeatherMonitoringAndReportingService.Test\\WeatherMonitoringAndReportingService.Test.csproj",
+        "projectPath": "C:\\Users\\loren\\source\\repos\\WeatherMonitoringAndReportingServiceWithTests\\WeatherMonitoringAndReportingService.Test\\WeatherMonitoringAndReportingService.Test.csproj",
         "packagesPath": "C:\\Users\\loren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\loren\\source\\repos\\WeatherMonitoringAndReportingService.Test\\obj\\",
+        "outputPath": "C:\\Users\\loren\\source\\repos\\WeatherMonitoringAndReportingServiceWithTests\\WeatherMonitoringAndReportingService.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\loren\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\loren\\source\\repos\\WeatherMonitoringAndReportingService\\WeatherMonitoringAndReportingService.csproj": {
-                "projectPath": "C:\\Users\\loren\\source\\repos\\WeatherMonitoringAndReportingService\\WeatherMonitoringAndReportingService.csproj"
+              "C:\\Users\\loren\\source\\repos\\WeatherMonitoringAndReportingServiceWithTests\\WeatherMonitoringAndReportingService\\WeatherMonitoringAndReportingService.csproj": {
+                "projectPath": "C:\\Users\\loren\\source\\repos\\WeatherMonitoringAndReportingServiceWithTests\\WeatherMonitoringAndReportingService\\WeatherMonitoringAndReportingService.csproj"
               }
             }
           }
@@ -110,14 +110,14 @@
         }
       }
     },
-    "C:\\Users\\loren\\source\\repos\\WeatherMonitoringAndReportingService\\WeatherMonitoringAndReportingService.csproj": {
+    "C:\\Users\\loren\\source\\repos\\WeatherMonitoringAndReportingServiceWithTests\\WeatherMonitoringAndReportingService\\WeatherMonitoringAndReportingService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\loren\\source\\repos\\WeatherMonitoringAndReportingService\\WeatherMonitoringAndReportingService.csproj",
+        "projectUniqueName": "C:\\Users\\loren\\source\\repos\\WeatherMonitoringAndReportingServiceWithTests\\WeatherMonitoringAndReportingService\\WeatherMonitoringAndReportingService.csproj",
         "projectName": "WeatherMonitoringAndReportingService",
-        "projectPath": "C:\\Users\\loren\\source\\repos\\WeatherMonitoringAndReportingService\\WeatherMonitoringAndReportingService.csproj",
+        "projectPath": "C:\\Users\\loren\\source\\repos\\WeatherMonitoringAndReportingServiceWithTests\\WeatherMonitoringAndReportingService\\WeatherMonitoringAndReportingService.csproj",
         "packagesPath": "C:\\Users\\loren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\loren\\source\\repos\\WeatherMonitoringAndReportingService\\obj\\",
+        "outputPath": "C:\\Users\\loren\\source\\repos\\WeatherMonitoringAndReportingServiceWithTests\\WeatherMonitoringAndReportingService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\loren\\AppData\\Roaming\\NuGet\\NuGet.Config",

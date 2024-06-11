@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F2sRxjePKnaXWt5EXlI1SyST9l9bSk4QN3ZbNS7Hef+bIkstvARnIp/P7DQPhmuhTvrw2wRnk2ywo8qAcozvoA==",
+  "dgSpecHash": "9SqG+5NZkLxiHqxZR4bYsKyAuolky5H5czKMfqah790jpS7Yxu+l0y0YuJvzbxvfey518kQr+dHSdInE3A0HTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\loren\\source\\repos\\WeatherMonitoringAndReportingService.Test\\WeatherMonitoringAndReportingService.Test.csproj",
+  "projectFilePath": "C:\\Users\\loren\\source\\repos\\WeatherMonitoringAndReportingServiceWithTests\\WeatherMonitoringAndReportingService.Test\\WeatherMonitoringAndReportingService.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\loren\\.nuget\\packages\\autofixture\\4.18.1\\autofixture.4.18.1.nupkg.sha512",
     "C:\\Users\\loren\\.nuget\\packages\\autofixture.xunit2\\4.18.1\\autofixture.xunit2.4.18.1.nupkg.sha512",
